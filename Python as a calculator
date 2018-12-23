@@ -1,0 +1,4 @@
+# Remainder - % 
+print (18 % 7) - 4
+# Exponential - ** 
+print (4**2) - 16
